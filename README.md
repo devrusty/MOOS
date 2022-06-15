@@ -14,4 +14,4 @@ C# operating system demo, Using Native AOT (Core RT) boot using UEFI(there's als
  - [x] UDP
  - [x] Lan
  - [ ] Wan  
-![image](https://github.com/nifanfa/Solution1/blob/uefi/Screenshot.png)
+![image](Screenshot.png)
